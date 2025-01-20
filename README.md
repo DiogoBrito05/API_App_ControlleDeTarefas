@@ -1,1 +1,3 @@
-# Meu projeto
+# API do app ControleDeTarefas
+
+## ainda em desenvolvimento 
