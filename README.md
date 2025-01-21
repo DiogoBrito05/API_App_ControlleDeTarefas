@@ -1,3 +1,3 @@
 # API do app ControleDeTarefas
 
-## ainda em desenvolvimento 
+## API DO APLICATIVO CONTROLE DE TAREFAS NO QUAL ESTOU TRABALHANDO/AINDA EM DESENVOLVIMENTO 
